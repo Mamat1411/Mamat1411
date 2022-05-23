@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mamat1411
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Full Stack Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Node JS
+- 📫 How to reach me: Email me at muhammadmujahid14@gmail.com
 
 <!---
 Mamat1411/Mamat1411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
