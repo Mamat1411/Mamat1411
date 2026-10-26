@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mamat1411
 - 👀 I’m interested in Full Stack Web and Back End Development
-- 💻 I’m currently learning PHP Laravel (MVC and RESTFul)
-- 💻 I’m currently learning Modern Front End JavaScript Frameworks (React.js and Next.js)
-- 🎯 My personal goal in tech is to master one or more of those techs I am currently learning
+- 💻 I’m mastering TALL (Tailwind, Alpine, Livewire, Laravel) Stack
+- 💻 I’m currently learning TypeScript and Golang
 - 📫 How to reach me: Email me at muhammadmujahid14@gmail.com
 
 <!---
